@@ -1,6 +1,6 @@
 <?php
 
-// 1. Generar las tablas de multiplicar del 4 y del 6
+// 1. tablas de multiplicar del 4 y del 6
 echo "Tabla del 4:<br>";
 for ($i = 1; $i <= 10; $i++) {
     echo "4 x $i = " . (4 * $i) . "<br>";
